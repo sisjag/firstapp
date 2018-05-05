@@ -17,5 +17,5 @@ def vdi2():
 	return devuelto
 
 if __name__== '__main__':
-	app.run(debug = True,host='192.168.1.233',port= 8001)
+	app.run(debug = True,host='localhost',port= 8000)
 
